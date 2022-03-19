@@ -92,7 +92,7 @@ function draw() {
  tryagain.visible = false
  tryagain.scale = 2
 
- if (space.x < 580){
+ if (space.x < 600){
  space.x = space.width/2
  }
   
